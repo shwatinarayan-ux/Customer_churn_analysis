@@ -334,14 +334,7 @@ Through this project, you practiced:
 ---
 
 # Author
-
 **Shwati Narayan**
-
 B.Tech Data Science Student  
-Interested in Machine Learning, Data Analytics, and Web Development
 
 ---
-
-# License
-
-This project is for educational and learning purposes.
